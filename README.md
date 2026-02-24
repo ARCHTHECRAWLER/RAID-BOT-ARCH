@@ -6,6 +6,7 @@ INSTALL TERMUX AND WINDOWS AND LINUX
 
 pip install -U discord.py  WINDOWS
 python -m pip install -U discord.py 
+git clone https://github.com/ARCHTHECRAWLER/RAID-BOT-ARCH/blob/main/archbotraid.py
 
 
 TERMUX 
