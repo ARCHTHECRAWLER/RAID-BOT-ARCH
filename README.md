@@ -9,9 +9,9 @@ python -m pip install -U discord.py
 
 
 TERMUX 
-
-
-
 pkg update && pkg upgrade-y
+pkg install python -y
+pip install -U discord.py
+
 pkg install-y git
 git clone https://github.com/ARCHTHECRAWLER/RAID-BOT-ARCH/blob/main/archbotraid.py
